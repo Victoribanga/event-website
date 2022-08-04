@@ -1,0 +1,17 @@
+section{
+    display: grid;
+    grid-template-columns: minmax(20%, 30%,);
+    grid-template-rows: minmax(20%, 20%,);
+    background-color: blueviolet;
+    gap:10px;
+    margin: auto;
+}
+
+
+div{
+    background-color: yellowgreen;
+    width: 40%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 10px;
+}

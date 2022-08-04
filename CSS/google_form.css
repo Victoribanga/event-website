@@ -1,0 +1,109 @@
+
+form {
+    border: 2px solid;
+    padding: 100px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    margin: 200px;
+    cursor: pointer;
+    
+    }
+
+.logo{
+    color: blue;
+    margin-right: 35%;
+    
+}
+
+.form3{
+    color: blue;
+    height: 30%;
+    margin-right: 18%;
+
+    
+}
+
+.form2{
+    display: center;
+    text-align: center;
+    margin-left: 0px;
+    
+}
+
+.h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+input{
+    cursor: pointer;
+    padding-left: 10px;
+
+}
+
+
+.form5{
+    float: right;
+    
+    margin-right: 20%;
+}
+
+.form1{
+    margin-right: 17%;
+}
+
+.form2a{
+    text-align: left;
+    margin-left: 22%;
+}
+
+.form10{
+    margin-right: 21%;
+    
+}
+
+
+.form4{
+    float: left;
+    margin-left: 23%;
+
+}
+
+
+
+
+
+img{
+    width: 200px;
+}
+
+.form50{
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

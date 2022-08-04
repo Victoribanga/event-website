@@ -1,0 +1,61 @@
+form{  
+    text-align: center;
+    border-style: solid;
+    margin: 200px;
+    margin-top: 100px;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 50px;
+    padding-top: 30px;
+    cursor: pointer;
+    
+}
+
+
+.form4{
+    color: blue;
+    margin-right: 55%;
+    padding-top: 20px;
+    
+}
+
+.form2{
+    color: blue;
+    margin-right: 34%;
+    padding-bottom: 50px;
+    margin-right: 55%;
+    
+}
+
+.form5{
+    margin-right: 13%;
+    padding-top: 30px;
+}
+
+
+img{
+    width: 200px;
+}
+
+
+.form3{
+    margin-right: 400px;
+}
+
+.form6{
+    float: right;
+
+margin-right: 200px;
+}
+
+
+
+.input1{
+    cursor: pointer;
+    padding: 10px;
+}
+
+.botton{
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+}
+
+.logo{
+    font-family: Kdam Thmor Pro;
+}
+
+header{
+    border:1px solid;
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    background-color: black;
+    height:50px;
+    padding:20px;
+    
+}
+
+/* nav{
+
+} */
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px; 
+}
